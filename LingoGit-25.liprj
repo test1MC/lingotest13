@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-25.liprjf" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-25.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="4aa094cc-79a3-43c9-9188-81eb437bd36f">
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlDatabaseRoot="C:\Users\test1\Documents\My Translated Projects\LingoGit-25B" SourceControlDatabase="C:\Users\test1\Documents\My Translated Projects\LingoGit-25B\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="4aa094cc-79a3-43c9-9188-81eb437bd36f">
     <ProjectFile Source="Target/LingoProject7.flprj" Target="Target/LingoProject7.flprj" />
     <TMConnection Connection="LingoLocal1.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
