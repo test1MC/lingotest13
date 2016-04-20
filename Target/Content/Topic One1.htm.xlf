@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
     original="Topic One1.htm"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">2</count>
+          unit="segment">3</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -62,6 +62,17 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="ExactMatch"
-            MadCap:matchPercent="100">Eliminar este texto y reemplazarlo con su propio contenido.</mrk></target></trans-unit></body>
+            MadCap:matchPercent="100">Eliminar este texto y reemplazarlo con su propio contenido.</mrk></target></trans-unit><trans-unit
+        id="3"
+        restype="x-p"
+        phase-name="pretrans"><source>afafasf</source><seg-source><mrk
+            mtype="seg"
+            mid="1">afafasf</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit></body>
   </file>
 </xliff>
